@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Bellamonte
+title: Welcome to Belamonte
 date: 2018-04-06 10:36:51 +0000
 categories: blog welcome
 ---
