@@ -1,9 +1,0 @@
----
-hide_body: false
-is_partial: false
-fields:
-- type: textarea
-  name: site_description
-  label: Site Description
-  description: A little writeup.
-  default: Treeee
